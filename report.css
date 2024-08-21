@@ -1,0 +1,6 @@
+h1{color: lightskyblue;text-align: center;font-size: 1in;font-style:italic;border: solid;border-color:whitesmoke;}
+section{width:50%;height:90%;float: left;font-size: 20px; padding-left: 60px;}
+article{width:40%;height:90%;float:right;font-size: 20px;}
+body{font-size: 20px;color:whitesmoke;background-color: black;}
+a{float: right;text-align: center;}
+a{color: aqua;}
